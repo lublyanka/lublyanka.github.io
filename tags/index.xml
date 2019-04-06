@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hi, it&#39;s me, Lu</title>
-    <link>http://sillyrobot.ru/tags/</link>
+    <link>https://sillyrobot.ru/tags/</link>
     <description>Recent content in Tags on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://sillyrobot.ru/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sillyrobot.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
