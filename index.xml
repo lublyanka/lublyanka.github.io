@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, it&#39;s me, Lu</title>
@@ -6,7 +6,6 @@
     <description>Recent content on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sillyrobot.ru/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +16,7 @@
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://sillyrobot.ru/about/</guid>
-      <description>I&amp;rsquo;m Lu Karelina, 29-years-old QA and Analyst located in Saint-Petersburg, Russia. I currently work for JSC &amp;ldquo;Comita&amp;rdquo;. I enjoy to decompose complex tasks, create a way to deal with problems and make it work. I am a bit of a control freak and looking to increase my skills in devops culture. When I&amp;rsquo;m not working, you&amp;rsquo;ll probably find me longboarding, reading science fiction or working out.
-   Part QA Part Analyst     Risk indentification Planning   API testing Research   Maintaining Review   Fixing things Communication    </description>
+      <description>I&amp;rsquo;m Lu Karelina, 30-years-old Analyst and Project manager from Saint-Petersburg, Russia, but for now located in Malaga, Spain. I currently work for JSC &amp;ldquo;Comita&amp;rdquo;. I enjoy to decompose complex tasks, create a way to deal with problems and make it work. I am a bit of a control freak and looking to increase my skills in devops culture. When I&amp;rsquo;m not working, you&amp;rsquo;ll probably find me longboarding, reading science fiction or working out.</description>
     </item>
     
   </channel>
