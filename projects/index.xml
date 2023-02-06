@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hi, it&#39;s me, Lu</title>
-    <link>https://sillyrobot.ru/</link>
-    <description>Recent content on Hi, it&#39;s me, Lu</description>
+    <title>Projects on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/projects/</link>
+    <description>Recent content in Projects on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sillyrobot.ru/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sillyrobot.ru/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -30,15 +30,6 @@
       <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
 The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
  Artifacts              Communication Plan Ultrarev Butter Onboarding         </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://sillyrobot.ru/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sillyrobot.ru/about/</guid>
-      <description>I&amp;rsquo;m Lu Karelina, 33-years-old Analyst and Project manager from Saint-Petersburg, Russia, currently living in Málaga, Spain. I currently work for . I enjoy to decompose complex tasks, create a way to deal with problems and make it work. I am a bit of a control freak and looking to increase my skills in devops culture. When I&amp;rsquo;m not working, you&amp;rsquo;ll probably find me longboarding, reading science fiction or working out.</description>
     </item>
     
   </channel>

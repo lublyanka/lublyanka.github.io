@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dev on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/tags/dev/</link>
+    <description>Recent content in dev on Hi, it&#39;s me, Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sillyrobot.ru/tags/dev/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Epam Trainee</title>
+      <link>https://sillyrobot.ru/projects/javaepamtrainee/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/javaepamtrainee/</guid>
+      <description>Overview This program prepares individuals for a new career in IT and includes the following modules:
+ Basics of Computer Science (optional) Version Control with Git Java Basics Collections and Streams Design and Databases Web Programming Basics Spring Framework Final Project  </description>
+    </item>
+    
+  </channel>
+</rss>

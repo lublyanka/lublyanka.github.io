@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>courses on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/tags/courses/</link>
+    <description>Recent content in courses on Hi, it&#39;s me, Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sillyrobot.ru/tags/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java Epam Trainee</title>
+      <link>https://sillyrobot.ru/projects/javaepamtrainee/</link>
+      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/javaepamtrainee/</guid>
+      <description>Overview This program prepares individuals for a new career in IT and includes the following modules:
+ Basics of Computer Science (optional) Version Control with Git Java Basics Collections and Streams Design and Databases Web Programming Basics Spring Framework Final Project  </description>
+    </item>
+    
+    <item>
+      <title>Google Project Management Professional Certificate</title>
+      <link>https://sillyrobot.ru/projects/courserapm/</link>
+      <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/courserapm/</guid>
+      <description>Google Professional Certificate Project Management is a certification program offered by Google in collaboration with Coursera.
+The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.
+It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.</description>
+    </item>
+    
+    <item>
+      <title>Google IT Support Professional Certificate</title>
+      <link>https://sillyrobot.ru/projects/courseraitsupport/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/courseraitsupport/</guid>
+      <description>Google Professional Certificate IT Support Management is a certification program offered by Google in collaboration with Coursera.
+The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .
+It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.</description>
+    </item>
+    
+    <item>
+      <title>Ultrarev Project Management Internship</title>
+      <link>https://sillyrobot.ru/projects/ultrarevpm/</link>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/ultrarevpm/</guid>
+      <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
+The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
+ Artifacts              Communication Plan Ultrarev Butter Onboarding         </description>
+    </item>
+    
+  </channel>
+</rss>
