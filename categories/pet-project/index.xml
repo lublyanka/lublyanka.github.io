@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pet-project on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/categories/pet-project/</link>
+    <description>Recent content in pet-project on Hi, it&#39;s me, Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sillyrobot.ru/categories/pet-project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Suntan telegram bot</title>
+      <link>https://sillyrobot.ru/projects/suntanbot/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/suntanbot/</guid>
+      <description>Overview In the past, I came across an article discussing the &amp;ldquo;Goltis1 Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.
+1also known as Vladimir Vuksta</description>
+    </item>
+    
+  </channel>
+</rss>

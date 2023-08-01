@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Certificates on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/certificates/</link>
+    <description>Recent content in Certificates on Hi, it&#39;s me, Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Jun 2023 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://sillyrobot.ru/certificates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Databases</title>
+      <link>https://sillyrobot.ru/certificates/db/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design code</title>
+      <link>https://sillyrobot.ru/certificates/design/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java core</title>
+      <link>https://sillyrobot.ru/certificates/java/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/java/</guid>
+      <description>Streams  
+Servlets  API  
+Concurrency  </description>
+    </item>
+    
+    <item>
+      <title>Spring courses</title>
+      <link>https://sillyrobot.ru/certificates/spring/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/spring/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

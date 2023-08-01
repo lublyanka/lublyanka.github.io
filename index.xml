@@ -6,19 +6,67 @@
     <description>Recent content on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sillyrobot.ru/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Suntan telegram bot</title>
+      <link>https://sillyrobot.ru/projects/suntanbot/</link>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/suntanbot/</guid>
+      <description>Overview In the past, I came across an article discussing the &amp;ldquo;Goltis1 Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.
+1also known as Vladimir Vuksta</description>
+    </item>
+    
+    <item>
+      <title>Databases</title>
+      <link>https://sillyrobot.ru/certificates/db/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/db/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design code</title>
+      <link>https://sillyrobot.ru/certificates/design/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java core</title>
+      <link>https://sillyrobot.ru/certificates/java/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/java/</guid>
+      <description>Streams  
+Servlets  API  
+Concurrency  </description>
+    </item>
+    
+    <item>
+      <title>Spring courses</title>
+      <link>https://sillyrobot.ru/certificates/spring/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/spring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java Epam Trainee</title>
       <link>https://sillyrobot.ru/projects/javaepamtrainee/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sillyrobot.ru/projects/javaepamtrainee/</guid>
       <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
- Basics of Computer Science (optional) Version Control with Git Java Basics Collections and Streams Design and Databases Web Programming Basics Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
+ Basics of Computer Science Version Control with Git Java Basics Collections and Streams Design  Databases Web Programming Basics Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
 In this project, I have successfully implemented a simplified account-payment system. During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.</description>
     </item>
     
@@ -30,7 +78,7 @@ In this project, I have successfully implemented a simplified account-payment sy
       <guid>https://sillyrobot.ru/projects/ultrarevpm/</guid>
       <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
 The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
- Artifacts              Communication Plan Ultrarev Butter Onboarding         </description>
+ Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
     </item>
     
     <item>

@@ -6,24 +6,15 @@
     <description>Recent content in Tags on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 06 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sillyrobot.ru/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>courses</title>
-      <link>https://sillyrobot.ru/tags/courses/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://sillyrobot.ru/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>dev</title>
       <link>https://sillyrobot.ru/tags/dev/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sillyrobot.ru/tags/dev/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>java</title>
       <link>https://sillyrobot.ru/tags/java/</link>
-      <pubDate>Mon, 06 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://sillyrobot.ru/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>courses</title>
+      <link>https://sillyrobot.ru/tags/courses/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/tags/courses/</guid>
       <description></description>
     </item>
     
