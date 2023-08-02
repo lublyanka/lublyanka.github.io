@@ -49,5 +49,23 @@ Concurrency  </description>
       <description></description>
     </item>
     
+    <item>
+      <title>Test in dev</title>
+      <link>https://sillyrobot.ru/certificates/testing/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web stack</title>
+      <link>https://sillyrobot.ru/certificates/web/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/web/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

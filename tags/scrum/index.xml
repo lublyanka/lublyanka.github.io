@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scrum on Hi, it&#39;s me, Lu</title>
+    <link>https://sillyrobot.ru/tags/scrum/</link>
+    <description>Recent content in scrum on Hi, it&#39;s me, Lu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://sillyrobot.ru/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scrum management</title>
+      <link>https://sillyrobot.ru/projects/scrum_pm/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/scrum_pm/</guid>
+      <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
+High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
+Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
+    </item>
+    
+  </channel>
+</rss>

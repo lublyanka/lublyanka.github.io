@@ -6,17 +6,28 @@
     <description>Recent content in pm on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sillyrobot.ru/tags/pm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Scrum management</title>
+      <link>https://sillyrobot.ru/projects/scrum_pm/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/scrum_pm/</guid>
+      <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
+High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
+Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
+    </item>
+    
+    <item>
       <title>Google Project Management Professional Program</title>
-      <link>https://sillyrobot.ru/projects/courserapm/</link>
+      <link>https://sillyrobot.ru/projects/coursera_pm/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/courserapm/</guid>
+      <guid>https://sillyrobot.ru/projects/coursera_pm/</guid>
       <description>Google Professional Certificate Project Management is a certification program offered by Google in collaboration with Coursera.
 The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.
 It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.</description>
@@ -24,10 +35,10 @@ It takes on average 6 months to complete with a workload of 15 hours per week an
     
     <item>
       <title>Ultrarev Project Management Internship</title>
-      <link>https://sillyrobot.ru/projects/ultrarevpm/</link>
+      <link>https://sillyrobot.ru/projects/ultrarev_pm/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/ultrarevpm/</guid>
+      <guid>https://sillyrobot.ru/projects/ultrarev_pm/</guid>
       <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
 The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
  Artifacts Communication Plan Ultrarev Butter Onboarding  </description>

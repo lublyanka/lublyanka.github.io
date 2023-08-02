@@ -60,34 +60,54 @@ Concurrency  </description>
     </item>
     
     <item>
+      <title>Test in dev</title>
+      <link>https://sillyrobot.ru/certificates/testing/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web stack</title>
+      <link>https://sillyrobot.ru/certificates/web/</link>
+      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
+      
+      <guid>https://sillyrobot.ru/certificates/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Java Epam Trainee</title>
-      <link>https://sillyrobot.ru/projects/javaepamtrainee/</link>
+      <link>https://sillyrobot.ru/projects/java_epam_trainee/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/javaepamtrainee/</guid>
+      <guid>https://sillyrobot.ru/projects/java_epam_trainee/</guid>
       <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
- Basics of Computer Science Version Control with Git Java Basics Collections and Streams Design  Databases Web Programming Basics Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
-In this project, I have successfully implemented a simplified account-payment system. During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.</description>
+ Basics of Computer Science Version Control with Git Java Core + Collections and Streams Design  Databases Web Programming Basics Testing Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
+In this project, I have successfully implemented a simplified account-payment system.</description>
+    </item>
+    
+    <item>
+      <title>Scrum management</title>
+      <link>https://sillyrobot.ru/projects/scrum_pm/</link>
+      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://sillyrobot.ru/projects/scrum_pm/</guid>
+      <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
+High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
+Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
     </item>
     
     <item>
       <title>Ultrarev Project Management Internship</title>
-      <link>https://sillyrobot.ru/projects/ultrarevpm/</link>
+      <link>https://sillyrobot.ru/projects/ultrarev_pm/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/ultrarevpm/</guid>
+      <guid>https://sillyrobot.ru/projects/ultrarev_pm/</guid>
       <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
 The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
  Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://sillyrobot.ru/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://sillyrobot.ru/about/</guid>
-      <description>I&amp;rsquo;m Lu Karelina, 33-years-old Analyst and Project manager from Saint-Petersburg, Russia, currently living in Málaga, Spain. I currently work for . I enjoy to decompose complex tasks, create a way to deal with problems and make it work. I am a bit of a control freak and looking to increase my skills in devops culture. When I&amp;rsquo;m not working, you&amp;rsquo;ll probably find me longboarding, reading science fiction or working out.</description>
     </item>
     
   </channel>

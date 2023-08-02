@@ -73,6 +73,16 @@
   </url>
   
   <url>
+    <loc>https://sillyrobot.ru/certificates/testing/</loc>
+    <lastmod>2023-06-02T19:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/certificates/web/</loc>
+    <lastmod>2023-06-02T19:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://sillyrobot.ru/tags/courses/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
@@ -83,27 +93,37 @@
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/javaepamtrainee/</loc>
+    <loc>https://sillyrobot.ru/projects/java_epam_trainee/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/courserapm/</loc>
-    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://sillyrobot.ru/tags/pm/</loc>
-    <lastmod>2023-02-05T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sillyrobot.ru/tags/project_management/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/tags/scrum/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/projects/scrum_pm/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/projects/coursera_pm/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/courseraitsupport/</loc>
+    <loc>https://sillyrobot.ru/projects/coursera_it_support/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,8 +133,18 @@
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/ultrarevpm/</loc>
+    <loc>https://sillyrobot.ru/projects/ultrarev_pm/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/projects/istqb/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sillyrobot.ru/tags/test/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>

@@ -23,13 +23,13 @@
     
     <item>
       <title>Java Epam Trainee</title>
-      <link>https://sillyrobot.ru/projects/javaepamtrainee/</link>
+      <link>https://sillyrobot.ru/projects/java_epam_trainee/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/javaepamtrainee/</guid>
+      <guid>https://sillyrobot.ru/projects/java_epam_trainee/</guid>
       <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
- Basics of Computer Science Version Control with Git Java Basics Collections and Streams Design  Databases Web Programming Basics Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
-In this project, I have successfully implemented a simplified account-payment system. During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.</description>
+ Basics of Computer Science Version Control with Git Java Core + Collections and Streams Design  Databases Web Programming Basics Testing Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
+In this project, I have successfully implemented a simplified account-payment system.</description>
     </item>
     
   </channel>
