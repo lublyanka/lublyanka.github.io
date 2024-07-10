@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>courses on Hi, it&#39;s me, Lu</title>
-    <link>https://sillyrobot.ru/categories/courses/</link>
+    <link>http://localhost:1313/categories/courses/</link>
     <description>Recent content in courses on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sillyrobot.ru/categories/courses/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/courses/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Java Epam Trainee</title>
-      <link>https://sillyrobot.ru/projects/java_epam_trainee/</link>
+      <link>http://localhost:1313/projects/java_epam_trainee/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/java_epam_trainee/</guid>
+      <guid>http://localhost:1313/projects/java_epam_trainee/</guid>
       <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
  Basics of Computer Science Version Control with Git Java Core + Collections and Streams Design  Databases Web Programming Basics Testing Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
 In this project, I have successfully implemented a simplified account-payment system.</description>
@@ -24,10 +24,10 @@ In this project, I have successfully implemented a simplified account-payment sy
     
     <item>
       <title>Scrum management</title>
-      <link>https://sillyrobot.ru/projects/scrum_pm/</link>
+      <link>http://localhost:1313/projects/scrum_pm/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/scrum_pm/</guid>
+      <guid>http://localhost:1313/projects/scrum_pm/</guid>
       <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
 High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
 Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
@@ -35,10 +35,10 @@ Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their
     
     <item>
       <title>Google Project Management Professional Program</title>
-      <link>https://sillyrobot.ru/projects/coursera_pm/</link>
+      <link>http://localhost:1313/projects/coursera_pm/</link>
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/coursera_pm/</guid>
+      <guid>http://localhost:1313/projects/coursera_pm/</guid>
       <description>Google Professional Certificate Project Management is a certification program offered by Google in collaboration with Coursera.
 The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.
 It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.</description>
@@ -46,10 +46,10 @@ It takes on average 6 months to complete with a workload of 15 hours per week an
     
     <item>
       <title>Google IT Support Professional Program</title>
-      <link>https://sillyrobot.ru/projects/coursera_it_support/</link>
+      <link>http://localhost:1313/projects/coursera_it_support/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/coursera_it_support/</guid>
+      <guid>http://localhost:1313/projects/coursera_it_support/</guid>
       <description>Google Professional Certificate IT Support Management is a certification program offered by Google in collaboration with Coursera.
 The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .
 It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.</description>
@@ -57,10 +57,10 @@ It takes on average 5 months to complete with a workload of 10 hours per week an
     
     <item>
       <title>Ultrarev Project Management Internship</title>
-      <link>https://sillyrobot.ru/projects/ultrarev_pm/</link>
+      <link>http://localhost:1313/projects/ultrarev_pm/</link>
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/ultrarev_pm/</guid>
+      <guid>http://localhost:1313/projects/ultrarev_pm/</guid>
       <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
 The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
  Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
@@ -68,10 +68,10 @@ The program helped me to strengthen my skills, mindset, and network to be a high
     
     <item>
       <title>ISTQB Foundational Level</title>
-      <link>https://sillyrobot.ru/projects/istqb/</link>
+      <link>http://localhost:1313/projects/istqb/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/projects/istqb/</guid>
+      <guid>http://localhost:1313/projects/istqb/</guid>
       <description>The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.
  Artifacts  </description>
     </item>

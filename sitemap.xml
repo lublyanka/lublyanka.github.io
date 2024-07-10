@@ -3,157 +3,157 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sillyrobot.ru/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/dev/</loc>
+    <loc>http://localhost:1313/tags/dev/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/java/</loc>
+    <loc>http://localhost:1313/tags/java/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/categories/pet-project/</loc>
+    <loc>http://localhost:1313/categories/pet-project/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/</loc>
+    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/categories/self-development/</loc>
+    <loc>http://localhost:1313/categories/self-development/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/suntanbot/</loc>
+    <loc>http://localhost:1313/projects/suntanbot/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/</loc>
+    <loc>http://localhost:1313/certificates/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/db/</loc>
+    <loc>http://localhost:1313/certificates/db/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/design/</loc>
+    <loc>http://localhost:1313/certificates/design/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/java/</loc>
+    <loc>http://localhost:1313/certificates/java/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/spring/</loc>
+    <loc>http://localhost:1313/certificates/spring/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/testing/</loc>
+    <loc>http://localhost:1313/certificates/testing/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/certificates/web/</loc>
+    <loc>http://localhost:1313/certificates/web/</loc>
     <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/courses/</loc>
+    <loc>http://localhost:1313/tags/courses/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/categories/courses/</loc>
+    <loc>http://localhost:1313/categories/courses/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/java_epam_trainee/</loc>
+    <loc>http://localhost:1313/projects/java_epam_trainee/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/pm/</loc>
+    <loc>http://localhost:1313/tags/pm/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/project_management/</loc>
+    <loc>http://localhost:1313/tags/project_management/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/scrum/</loc>
+    <loc>http://localhost:1313/tags/scrum/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/scrum_pm/</loc>
+    <loc>http://localhost:1313/projects/scrum_pm/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/coursera_pm/</loc>
+    <loc>http://localhost:1313/projects/coursera_pm/</loc>
     <lastmod>2023-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/coursera_it_support/</loc>
+    <loc>http://localhost:1313/projects/coursera_it_support/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/support/</loc>
+    <loc>http://localhost:1313/tags/support/</loc>
     <lastmod>2022-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/ultrarev_pm/</loc>
+    <loc>http://localhost:1313/projects/ultrarev_pm/</loc>
     <lastmod>2022-09-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/projects/istqb/</loc>
+    <loc>http://localhost:1313/projects/istqb/</loc>
     <lastmod>2016-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/tags/test/</loc>
+    <loc>http://localhost:1313/tags/test/</loc>
     <lastmod>2016-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sillyrobot.ru/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
   </url>
   
 </urlset>

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hi, it&#39;s me, Lu</title>
-    <link>https://sillyrobot.ru/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sillyrobot.ru/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>pet-project</title>
-      <link>https://sillyrobot.ru/categories/pet-project/</link>
+      <link>http://localhost:1313/categories/pet-project/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/categories/pet-project/</guid>
+      <guid>http://localhost:1313/categories/pet-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>self-development</title>
-      <link>https://sillyrobot.ru/categories/self-development/</link>
+      <link>http://localhost:1313/categories/self-development/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/categories/self-development/</guid>
+      <guid>http://localhost:1313/categories/self-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>courses</title>
-      <link>https://sillyrobot.ru/categories/courses/</link>
+      <link>http://localhost:1313/categories/courses/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://sillyrobot.ru/categories/courses/</guid>
+      <guid>http://localhost:1313/categories/courses/</guid>
       <description></description>
     </item>
     
