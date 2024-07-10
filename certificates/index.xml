@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Certificates on Hi, it&#39;s me, Lu</title>
-    <link>http://localhost:1313/certificates/</link>
+    <link>https://techsavvy.cc/certificates/</link>
     <description>Recent content in Certificates on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Jun 2023 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/certificates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://techsavvy.cc/certificates/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Databases</title>
-      <link>http://localhost:1313/certificates/db/</link>
+      <link>https://techsavvy.cc/certificates/db/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/db/</guid>
+      <guid>https://techsavvy.cc/certificates/db/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design code</title>
-      <link>http://localhost:1313/certificates/design/</link>
+      <link>https://techsavvy.cc/certificates/design/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/design/</guid>
+      <guid>https://techsavvy.cc/certificates/design/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java core</title>
-      <link>http://localhost:1313/certificates/java/</link>
+      <link>https://techsavvy.cc/certificates/java/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/java/</guid>
+      <guid>https://techsavvy.cc/certificates/java/</guid>
       <description> Streams  
 Servlets  API  
 Concurrency  </description>
@@ -42,28 +42,28 @@ Concurrency  </description>
     
     <item>
       <title>Spring courses</title>
-      <link>http://localhost:1313/certificates/spring/</link>
+      <link>https://techsavvy.cc/certificates/spring/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/spring/</guid>
+      <guid>https://techsavvy.cc/certificates/spring/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test in dev</title>
-      <link>http://localhost:1313/certificates/testing/</link>
+      <link>https://techsavvy.cc/certificates/testing/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/testing/</guid>
+      <guid>https://techsavvy.cc/certificates/testing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web stack</title>
-      <link>http://localhost:1313/certificates/web/</link>
+      <link>https://techsavvy.cc/certificates/web/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/certificates/web/</guid>
+      <guid>https://techsavvy.cc/certificates/web/</guid>
       <description></description>
     </item>
     
