@@ -6,10 +6,19 @@
     <description>Recent content on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 19:47:09 +0200</lastBuildDate>
     
 	<atom:link href="https://techsavvy.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PowerBI</title>
+      <link>https://techsavvy.cc/certificates/powerbi/</link>
+      <pubDate>Fri, 21 Jun 2024 19:47:09 +0200</pubDate>
+      
+      <guid>https://techsavvy.cc/certificates/powerbi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Suntan telegram bot</title>
@@ -97,17 +106,6 @@ In this project, I have successfully implemented a simplified account-payment sy
       <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
 High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
 Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
-    </item>
-    
-    <item>
-      <title>Ultrarev Project Management Internship</title>
-      <link>https://techsavvy.cc/projects/ultrarev_pm/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/ultrarev_pm/</guid>
-      <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
-The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
- Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
     </item>
     
   </channel>

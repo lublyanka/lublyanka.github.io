@@ -6,10 +6,21 @@
     <description>Recent content in courses on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techsavvy.cc/tags/courses/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IBM SkillsBuild PowerBI program </title>
+      <link>https://techsavvy.cc/projects/ibm_bi/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techsavvy.cc/projects/ibm_bi/</guid>
+      <description>IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.
+The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:
+ Microsoft Power BI - Power BI Desktop Course(24h) People Analytics with Power BI (5h) Supply chain (2.5h) Final Project (20h)  Apart from being a completely new subject for me, I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.</description>
+    </item>
     
     <item>
       <title>Java Epam Trainee</title>

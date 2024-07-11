@@ -3,17 +3,67 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://techsavvy.cc/categories/</loc>
-    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/tags/dev/</loc>
-    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
+    <loc>https://techsavvy.cc/certificates/</loc>
+    <lastmod>2024-06-21T19:47:09+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://techsavvy.cc/</loc>
+    <lastmod>2024-06-21T19:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/certificates/powerbi/</loc>
+    <lastmod>2024-06-21T19:47:09+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/categories/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/tags/courses/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/categories/courses/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/projects/ibm_bi/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/tags/power_bi/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/tags/project_management/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/projects/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/categories/self-development/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/tags/</loc>
+    <lastmod>2024-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://techsavvy.cc/tags/dev/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,28 +78,8 @@
   </url>
   
   <url>
-    <loc>https://techsavvy.cc/projects/</loc>
-    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/categories/self-development/</loc>
-    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://techsavvy.cc/projects/suntanbot/</loc>
     <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/tags/</loc>
-    <lastmod>2023-07-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/certificates/</loc>
-    <lastmod>2023-06-02T19:47:09+02:00</lastmod>
   </url>
   
   <url>
@@ -83,27 +113,12 @@
   </url>
   
   <url>
-    <loc>https://techsavvy.cc/tags/courses/</loc>
-    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/categories/courses/</loc>
-    <lastmod>2023-05-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://techsavvy.cc/projects/java_epam_trainee/</loc>
     <lastmod>2023-05-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://techsavvy.cc/tags/pm/</loc>
-    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://techsavvy.cc/tags/project_management/</loc>
     <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url>
   

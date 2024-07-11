@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Hi, it&#39;s me, Lu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techsavvy.cc/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>courses</title>
+      <link>https://techsavvy.cc/tags/courses/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techsavvy.cc/tags/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power_bi</title>
+      <link>https://techsavvy.cc/tags/power_bi/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techsavvy.cc/tags/power_bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project_management</title>
+      <link>https://techsavvy.cc/tags/project_management/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techsavvy.cc/tags/project_management/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>dev</title>
@@ -30,29 +57,11 @@
     </item>
     
     <item>
-      <title>courses</title>
-      <link>https://techsavvy.cc/tags/courses/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/tags/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>pm</title>
       <link>https://techsavvy.cc/tags/pm/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/pm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>project_management</title>
-      <link>https://techsavvy.cc/tags/project_management/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/tags/project_management/</guid>
       <description></description>
     </item>
     
