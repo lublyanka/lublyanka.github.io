@@ -1,68 +1,561 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Projects on Hi, it&#39;s me, Lu</title>
-    <link>https://techsavvy.cc/projects/</link>
-    <description>Recent content in Projects on Hi, it&#39;s me, Lu</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/projects/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Suntan telegram bot</title>
-      <link>https://techsavvy.cc/projects/suntanbot/</link>
-      <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/suntanbot/</guid>
-      <description>Overview In the past, I came across an article discussing the &amp;ldquo;Goltis1 Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.
-1also known as Vladimir Vuksta</description>
-    </item>
-    
-    <item>
-      <title>Java Epam Trainee</title>
-      <link>https://techsavvy.cc/projects/java_epam_trainee/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/java_epam_trainee/</guid>
-      <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
- Basics of Computer Science Version Control with Git Java Core + Collections and Streams Design  Databases Web Programming Basics Testing Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
-In this project, I have successfully implemented a simplified account-payment system.</description>
-    </item>
-    
-    <item>
-      <title>[Self study] Scrum management</title>
-      <link>https://techsavvy.cc/projects/scrum_pm/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/scrum_pm/</guid>
-      <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
-High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
-Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
-    </item>
-    
-    <item>
-      <title>[Self study] Ultrarev Project Management Internship</title>
-      <link>https://techsavvy.cc/projects/ultrarev_pm/</link>
-      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/ultrarev_pm/</guid>
-      <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
-The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
- Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
-    </item>
-    
-    <item>
-      <title>[Self study] ISTQB Foundational Level</title>
-      <link>https://techsavvy.cc/projects/istqb/</link>
-      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://techsavvy.cc/projects/istqb/</guid>
-      <description>The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.
- Artifacts  </description>
-    </item>
-    
-  </channel>
+    <channel>
+        <title>Projects on Hi, it&#39;s me, Lua</title>
+        <link>https://techsavvy.cc/projects/</link>
+        <description>Recent content in Projects on Hi, it&#39;s me, Lua</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://techsavvy.cc/projects/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>[Self study] IBM SkillsBuild PowerBI program </title>
+            <link>https://techsavvy.cc/projects/ibm_bi/</link>
+            <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/ibm_bi/</guid>
+            <description>&lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;p&gt;IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.&lt;/p&gt;
+&lt;p&gt;The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/curso-microsoft-power-bi&#34;&gt;Microsoft Power BI - Power BI Desktop Course(24h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/hr-analytics-con-power-bi-desde-0&#34;&gt;People Analytics with Power BI (5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence&#34;&gt;Supply chain (2.5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Final Project (20h)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[
+ 
+ <object
+     data="https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;em=2" width="100%" height="615px"type="application/pdf"
+ >
+     <p>Unable to display PDF file. <a href="https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;em=2">Download</a> instead.</p>
+ </object>
+
+<p>IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.</p>
+<p>The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:</p>
+<ol>
+<li><a href="https://udemy.com/course/curso-microsoft-power-bi">Microsoft Power BI - Power BI Desktop Course(24h)</a></li>
+<li><a href="https://udemy.com/course/hr-analytics-con-power-bi-desde-0">People Analytics with Power BI (5h)</a></li>
+<li><a href="https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence">Supply chain (2.5h)</a></li>
+<li>Final Project (20h)</li>
+</ol>
+<p>Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.</p>
+<hr>
+<h2 id="project-capstone">
+  Project Capstone
+  <a href="#project-capstone" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>The last course of a program is a real-world setting project Capstone.
+During the project I did many hands-on activities, such as:</p>
+<ul>
+<li>Requirement Gathering and Scoping:
+<ul>
+<li>Understand the business needs and objectives.</li>
+<li>Define the scope of the project, including data sources, target audience, and desired outcomes.</li>
+</ul>
+</li>
+<li>Data Collection and Preparation:
+<ul>
+<li>Identify relevant data sources (databases, files, etc.).</li>
+<li>Extract, transform, and load (ETL) the data into Power BI using Power Query.</li>
+<li>Cleanse and transform the data to make it suitable for analysis.</li>
+</ul>
+</li>
+<li>Data Modeling:
+<ul>
+<li>Design the data model by creating relationships between tables.</li>
+<li>Define calculated columns, measures, and hierarchies.</li>
+<li>Optimize data model performance.</li>
+</ul>
+</li>
+<li>Report and Dashboard Design:
+<ul>
+<li>Create visualizations (charts, tables, maps, etc.) using Power BI Desktop.</li>
+<li>Arrange visuals on report pages to tell a coherent story.</li>
+<li>Apply themes, colors, and formatting.</li>
+</ul>
+</li>
+<li>Report Publishing and Sharing</li>
+</ul>
+<hr>
+<h2 id="artifacts">
+  Artifacts
+  <a href="#artifacts" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p><a href="https://github.com/lublyanka/PowerBICourseIBM/tree/main">Github</a></p>
+
+ 
+ <object
+     data="https://1drv.ms/b/s!AgeHJIJEdd5Ohr8ydWORHCoZ35PJww?embed=1&amp;em=2" width="100%" height="625px"type="application/pdf"
+ >
+     <p>Unable to display PDF file. <a href="https://1drv.ms/b/s!AgeHJIJEdd5Ohr8ydWORHCoZ35PJww?embed=1&amp;em=2">Download</a> instead.</p>
+ </object>
+
+]]></content>
+        </item>
+        
+        <item>
+            <title>Suntan telegram bot</title>
+            <link>https://techsavvy.cc/projects/suntanbot/</link>
+            <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/suntanbot/</guid>
+            <description>&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;In the past, I came across an article discussing the &amp;ldquo;Goltis&lt;sup&gt;1&lt;/sup&gt; Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.&lt;/p&gt;
+&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;sub&gt;also known as Vladimir Vuksta&lt;/sub&gt;&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<h2 id="overview">
+  Overview
+  <a href="#overview" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>In the past, I came across an article discussing the &ldquo;Goltis<sup>1</sup> Scheme&rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.</p>
+<p><sup>1</sup><sub>also known as Vladimir Vuksta</sub></p>
+<hr>
+<h2 id="realization">
+  Realization
+  <a href="#realization" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>So after finishing another course, and still having some free time, I thought now is the time to finally do something about this scheme. And so I did.
+<a href="https://github.com/lublyanka/sun_tan_bot">https://github.com/lublyanka/sun_tan_bot</a></p>
+<p>In this small project, I decided to create a Telegram bot instead of a standalone application. Using a Telegram bot seemed more convenient, as many of us already use the messaging app while spending time on the beach. Instead of installing something new on your phone, you can simply interact with the bot and get the information you need. This way, you can seamlessly integrate the suntan tips into your beach chat sessions and enjoy the sun responsibly.
+It has support of three locale (ES, EN and RU)</p>
+<hr>
+<h3 id="bot-info">
+  Bot info
+  <a href="#bot-info" class="h-anchor" aria-hidden="true">#</a>
+</h3>
+<p><strong><a href="https://t.me/sun_tan_bot" title="Bot link">Link to open the bot in telegram</a></strong>
+
+ 
+ 
+ 
+ 
+ <img src="/projects/suntanbot/bot_img_hu17870181507725844713.png" width="375" height="250" alt="Sand on the beach"></p>
+<hr>
+<h4 id="used-technologies">
+  Used technologies
+  <a href="#used-technologies" class="h-anchor" aria-hidden="true">#</a>
+</h4>
+<ul>
+<li>Spring boot</li>
+<li>JPA, Hibernate</li>
+<li>Maven</li>
+<li>Lombok </li>
+<li>Junit5 + Mockito</li>
+<li>Telegram API library</li>
+</ul>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Java Epam Trainee</title>
+            <link>https://techsavvy.cc/projects/java_epam_trainee/</link>
+            <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/java_epam_trainee/</guid>
+            <description>&lt;p&gt;&lt;img alt=&#34;Epam_certificate&#34; src=&#34;https://1drv.ms/i/s!AgeHJIJEdd5Ohs9oHV03TkZd2AoiXA?embed=1&amp;height=1024&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of Computer Science&lt;/li&gt;
+&lt;li&gt;Version Control with Git&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/java/&#34;&gt;Java Core + Collections and Streams + Web Programming Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/design/&#34;&gt;Design &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/db/&#34;&gt;Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/testing/&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/spring/&#34;&gt;Spring Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;Final Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-project&#34;&gt;
+  Final Project
+  &lt;a href=&#34;#final-project&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Fot the final project I chose Payment varian.
+&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;https://github.com/lublyanka/epam_final_task&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this project, I have successfully implemented a simplified account-payment system.
+During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.
+Throughout the project, I have learned about payment processing and developed and strengthened skills in Java and JavaScript.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p><img alt="Epam_certificate" src="https://1drv.ms/i/s!AgeHJIJEdd5Ohs9oHV03TkZd2AoiXA?embed=1&height=1024"></p>
+<h2 id="overview">
+  Overview
+  <a href="#overview" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:</p>
+<ul>
+<li>Basics of Computer Science</li>
+<li>Version Control with Git</li>
+<li><a href="/certificates/java/">Java Core + Collections and Streams + Web Programming Basics</a></li>
+<li><a href="/certificates/design/">Design </a></li>
+<li><a href="/certificates/db/">Databases</a></li>
+<li><a href="/certificates/testing/">Testing</a></li>
+<li><a href="/certificates/spring/">Spring Framework</a></li>
+<li><a href="https://github.com/lublyanka/epam_final_task">Final Project</a></li>
+</ul>
+<hr>
+<h2 id="final-project">
+  Final Project
+  <a href="#final-project" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>Fot the final project I chose Payment varian.
+<a href="https://github.com/lublyanka/epam_final_task">https://github.com/lublyanka/epam_final_task</a></p>
+<p>In this project, I have successfully implemented a simplified account-payment system.
+During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.
+Throughout the project, I have learned about payment processing and developed and strengthened skills in Java and JavaScript.</p>
+<h4 id="used-technologies">
+  Used technologies
+  <a href="#used-technologies" class="h-anchor" aria-hidden="true">#</a>
+</h4>
+<ul>
+<li>Spring boot
+<ul>
+<li>Security</li>
+<li>Authorization</li>
+<li>Log4j2 </li>
+<li>JPA, Hibernate (Pageable)</li>
+</ul>
+</li>
+<li>ThymeLeaf</li>
+<li>Materialize</li>
+<li>Gradle</li>
+<li>Lombok </li>
+<li>JWT (io.jsonwebtoken)</li>
+<li>Junit5 + Mockito</li>
+<li>Swagger</li>
+<li>reCAPTCHA</li>
+</ul>
+<p><img alt="User flow" src="/projects/java_epam_trainee/user_flow.png"></p>
+<p><img alt="Actors" src="/projects/java_epam_trainee/roles.png"></p>
+<p><img alt="List of requirments" src="/projects/java_epam_trainee/requirments.png"></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>[Self study] Scrum management</title>
+            <link>https://techsavvy.cc/projects/scrum_pm/</link>
+            <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/scrum_pm/</guid>
+            <description>&lt;p&gt;Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High Energy and Enthusiasm&lt;/strong&gt;: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intelligent and Adaptive&lt;/strong&gt;: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability. Similarly, Scrum Management encourages teams to continuously learn, adapt, and overcome challenges, making it a flexible and intelligent project management approach.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<p>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.</p>
+<p><strong>High Energy and Enthusiasm</strong>: Just like a cockatoo&rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.</p>
+<p><strong>Intelligent and Adaptive</strong>: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability. Similarly, Scrum Management encourages teams to continuously learn, adapt, and overcome challenges, making it a flexible and intelligent project management approach.</p>
+<p><strong>Social and Collaborative</strong>: Cockatoos are social birds that thrive in group settings, and likewise, Scrum Management emphasizes collaboration and effective teamwork. Scrum teams work closely together, fostering open communication and mutual support to achieve shared goals.</p>
+<p><strong>Expressive Communication</strong>: Cockatoos are known for their expressive communication, using vocalizations and body language to convey their feelings. In Scrum Management, effective communication is vital, with regular ceremonies like Daily Standups and Sprint Reviews facilitating open and transparent communication among team members.</p>
+<p><strong>Adorned with Colors</strong>: Cockatoos boast vibrant and stunning plumage, much like the colorful array of practices and tools in Scrum Management. Scrum ceremonies, artifacts, and roles add richness to the project management process, creating a visually appealing and efficient workflow.</p>
+<p><strong>Curiosity and Exploration</strong>: Cockatoos are curious creatures, exploring their surroundings with an inquisitive nature. Similarly, Scrum Management encourages teams to inspect and adapt regularly, fostering a culture of continuous improvement and innovation.</p>
+<p><strong>Attention-Grabbing Performances</strong>: Cockatoos are known for their entertaining displays and attention-grabbing performances. In Scrum Management, the Sprint Review provides an opportunity for teams to showcase their achievements and receive feedback, similar to a captivating cockatoo performance.</p>
+<p><strong>Strong Bonds and Loyalty</strong>: Cockatoos form strong bonds with their flock members and exhibit loyalty to their group. In Scrum Management, the collaboration and commitment among team members create a sense of camaraderie and dedication to achieving project success together.</p>
+<p>By drawing parallels between Scrum Management and a cockatoo, we can appreciate the liveliness, intelligence, and social dynamics that make Scrum an effective and engaging project management framework. Just as cockatoos bring color and life to their surroundings, Scrum Management brings agility and efficiency to project teams, leading to successful and value-driven product development.</p>
+<hr>
+<h2 id="artifacts">
+  Artifacts
+  <a href="#artifacts" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<iframe src='https://onedrive.live.com/embed?resid=4EDE754482248707%2146140&amp;authkey=!AIGUV_TcaZLfIAc&amp;em=2#zoom=50'  width="100%" height="500" border="0" frameborder="0" scrolling="no" > </iframe>
+]]></content>
+        </item>
+        
+        <item>
+            <title>[Self study] Google Project Management Professional Program</title>
+            <link>https://techsavvy.cc/projects/coursera_pm/</link>
+            <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/coursera_pm/</guid>
+            <description>&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101087&amp;amp;authkey=!AKG3N1-cf5sTZfU&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/gestion-de-proyectos-de-google&#34;&gt;Google Professional Certificate Project Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.&lt;/p&gt;
+&lt;p&gt;It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<iframe src='https://onedrive.live.com/embed?resid=4EDE754482248707%21101087&amp;authkey=!AKG3N1-cf5sTZfU&amp;em=2#zoom=50'  width="100%" height="500" border="0" frameborder="0" scrolling="no" > </iframe>
+<p><a href="https://www.coursera.org/professional-certificates/gestion-de-proyectos-de-google">Google Professional Certificate Project Management</a> is a certification program offered by Google in collaboration with Coursera.</p>
+<p>The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.</p>
+<p>It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.</p>
+<p>Upon completion of the program, individuals receive a certificate that showcases their skills and knowledge in project management, recognized by both employers and peers.</p>
+<hr>
+<h2 id="project-sauce--spoon">
+  Project Sauce &amp; Spoon
+  <a href="#project-sauce--spoon" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>The last course of a program is a real-world setting project Sauce &amp; Spoon.
+During the project I did many hands-on activities, such as:</p>
+<ul>
+<li>
+<p>Analyzed project documents to identify project needs and assess stakeholders</p>
+</li>
+<li>
+<p>Created a project charter and used it as a tool to clarify the scope and objectives of the project to stakeholders</p>
+</li>
+<li>
+<p>Identified tasks and milestones (and made them SMART!) and negotiated with stakeholders to prioritize them</p>
+</li>
+<li>
+<p>Developed a project plan by reviewing project documents, conducting online research, analyzing key conversations, documenting tasks and milestones.</p>
+</li>
+<li>
+<p>Demonstrated effective communication skills to accurately estimate project task time.</p>
+</li>
+<li>
+<p>Defined quality standards and evaluated the project against them to ensure quality.</p>
+</li>
+<li>
+<p>Derived evaluation questions from survey questions and effectively shared qualitative data.</p>
+</li>
+<li>
+<p>Polished strategies for a productive retrospective, including encouraging participation, accountability, and positivity.</p>
+</li>
+<li>
+<p>Communicated and escalated project issues to stakeholders and demonstrated the impact through effective reports</p>
+</li>
+</ul>
+<hr>
+<h2 id="artifacts">
+  Artifacts
+  <a href="#artifacts" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+
+
+
+
+
+<img src="/projects/coursera_pm/GrowwithGoogle_hu14446174346684239437.png" width="400" height="400" alt="Google Project Management Program">
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left"></th>
+          <th style="text-align: left"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">
+ 
+ 
+ 
+ 
+ <img src="/projects/coursera_pm/SauceSpoonProjectChapter_hu17754981241815183875.png" width="370" height="280" alt="Project Charter Sauce&amp;Spoon"></td>
+          <td style="text-align: center">
+
+
+
+
+<img src="/projects/coursera_pm/SauceSpoonProjectPlan_hu12003516238275108174.webp" width="370" height="280" alt="Project Plan Sauce&amp;Spoon"></td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/document/d/1HoogNJzIFU4zdPud1B9D0-9J1WiA78n_qrxougvsUd8/edit?usp=share_link&amp;resourcekey=0-twu1y6HUQhQZxBWJrzbfuA">Project Charter</a></strong></td>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/spreadsheets/d/1cRlW_ewp_VyDWYPE42NkXCbhU2iq7EbAW67KAF-eLDw/edit?usp=share_link">Project Plan</a></strong></td>
+      </tr>
+      <tr>
+          <td style="text-align: left"></td>
+          <td style="text-align: left"></td>
+      </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left"></th>
+          <th style="text-align: left"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">
+ 
+ 
+ 
+ 
+ <img src="/projects/coursera_pm/SauceSpoonImpactReport_hu4684227009177022960.png" width="370" height="280" alt="Impact Report Sauce&amp;Spoon"></td>
+          <td style="text-align: center">
+
+
+
+
+<img src="/projects/coursera_pm/SauceSpoonTestLaunch_hu14086750629809244352.png" width="370" height="280" alt="Test Launch Findings Sauce&amp;Spoon"></td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/presentation/d/1jYhb2WqOPffn8b5fW0AGUaMSg0o-yYegeAYubSjySD0/edit?usp=share_link&amp;resourcekey=0-F68QekVWOTewrFu84CFB-w">Impact Report</a></strong></td>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/presentation/d/12mqYCFsVkBT3mr_jYYgZKi_Q15MziAfJnMBVYnNvm1s/edit?usp=sharing">Test Launch Findings</a></strong></td>
+      </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: center"></th>
+          <th style="text-align: left"></th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: center">
+ 
+ 
+ 
+ 
+ <img src="/projects/coursera_pm/SauceSpoonEmailCoalition_hu15723437123227378071.png" width="370" height="280" alt="Email Coalition Sauce&amp;Spoon"></td>
+          <td style="text-align: center">
+
+
+
+
+<img src="/projects/coursera_pm/SauceSpoonEmailSeniorStakeholder_hu9640054688027703084.png" width="370" height="280" alt="Senior Stakeholder Email Sauce&amp;Spoon"></td>
+      </tr>
+      <tr>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/document/d/1rrhtTU-SeE4pE1_IAJOtjjn-dwzOXAI0QT3b9kwZQT4/edit?usp=sharing">Email Coalition</a></strong></td>
+          <td style="text-align: center"><strong><a href="https://docs.google.com/document/d/1wf5jGpXi7NcLlTp0xLdounL_6T7hu35sNXi3YTcQMGU/edit?usp=share_link">Senior Stakeholder Email</a></strong></td>
+      </tr>
+  </tbody>
+</table>
+]]></content>
+        </item>
+        
+        <item>
+            <title>[Self study] Google IT Support Professional Program</title>
+            <link>https://techsavvy.cc/projects/coursera_it_support/</link>
+            <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/coursera_it_support/</guid>
+            <description>&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2131826&amp;amp;authkey=!APuKdIs151NBru8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google&#34;&gt;Google Professional Certificate IT Support Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .&lt;/p&gt;
+&lt;p&gt;It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[<iframe src='https://onedrive.live.com/embed?resid=4EDE754482248707%2131826&amp;authkey=!APuKdIs151NBru8&amp;em=2#zoom=50'  width="100%" height="500" border="0" frameborder="0" scrolling="no" > </iframe>
+<p><a href="https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google">Google Professional Certificate IT Support Management</a> is a certification program offered by Google in collaboration with Coursera.</p>
+<p>The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .</p>
+<p>It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.</p>
+<p>Upon completion of the program, individuals receive a certificate that is recognized by major industry players and can help them stand out in the job market.</p>
+<hr>
+<p>During the course I did many hands-on activities, such as:</p>
+<ul>
+<li>
+<p>Troubleshooting computer hardware and software issues</p>
+</li>
+<li>
+<p>Installing and configuring operating systems</p>
+</li>
+<li>
+<p>Configuring network settings and security protocols</p>
+</li>
+<li>
+<p>Setting up and maintaining computer systems</p>
+</li>
+<li>
+<p>Debugging network connectivity issues</p>
+</li>
+<li>
+<p>Administering user accounts and permissions on a network</p>
+</li>
+<li>
+<p>Troubleshooting and resolving network issues</p>
+</li>
+<li>
+<p>Monitoring and maintaining system performance.</p>
+</li>
+</ul>
+<hr>
+
+
+
+
+
+<img src="/projects/coursera_it_support/GrowwithGoogle_hu18367521601174940893.png" width="400" height="400" alt="Google IT Support Program">
+]]></content>
+        </item>
+        
+        <item>
+            <title>[Self study] Ultrarev Project Management Internship</title>
+            <link>https://techsavvy.cc/projects/ultrarev_pm/</link>
+            <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/ultrarev_pm/</guid>
+            <description>&lt;p&gt;RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.&lt;/p&gt;
+&lt;p&gt;The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;
+  Artifacts
+  &lt;a href=&#34;#artifacts&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h4 id=&#34;communication-plan-ultrarev-butter-onboarding&#34;&gt;
+  Communication Plan Ultrarev Butter Onboarding
+  &lt;a href=&#34;#communication-plan-ultrarev-butter-onboarding&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+
+ 
+ &lt;object
+     data=&#34;https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;amp;authkey=%21AFvYtODXNXPPqwU&amp;amp;em=2&amp;amp;wdAllowInteractivity=False&amp;amp;ActiveCell=%27Sheet1%27!A1&amp;amp;wdHideGridlines=True&amp;amp;wdHideHeaders=True&amp;amp;wdDownloadButton=True&amp;amp;wdInConfigurator=True&amp;amp;wdInConfigurator=True&#34; width=&#34;100%&#34; height=&#34;775px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;amp;authkey=%21AFvYtODXNXPPqwU&amp;amp;em=2&amp;amp;wdAllowInteractivity=False&amp;amp;ActiveCell=%27Sheet1%27!A1&amp;amp;wdHideGridlines=True&amp;amp;wdHideHeaders=True&amp;amp;wdDownloadButton=True&amp;amp;wdInConfigurator=True&amp;amp;wdInConfigurator=True&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;</description>
+            <content type="html"><![CDATA[<p>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.</p>
+<p>The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.</p>
+<hr>
+<h2 id="artifacts">
+  Artifacts
+  <a href="#artifacts" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<h4 id="communication-plan-ultrarev-butter-onboarding">
+  Communication Plan Ultrarev Butter Onboarding
+  <a href="#communication-plan-ultrarev-butter-onboarding" class="h-anchor" aria-hidden="true">#</a>
+</h4>
+
+ 
+ <object
+     data="https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;authkey=%21AFvYtODXNXPPqwU&amp;em=2&amp;wdAllowInteractivity=False&amp;ActiveCell=%27Sheet1%27!A1&amp;wdHideGridlines=True&amp;wdHideHeaders=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True&amp;wdInConfigurator=True" width="100%" height="775px"type="application/pdf"
+ >
+     <p>Unable to display PDF file. <a href="https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;authkey=%21AFvYtODXNXPPqwU&amp;em=2&amp;wdAllowInteractivity=False&amp;ActiveCell=%27Sheet1%27!A1&amp;wdHideGridlines=True&amp;wdHideHeaders=True&amp;wdDownloadButton=True&amp;wdInConfigurator=True&amp;wdInConfigurator=True">Download</a> instead.</p>
+ </object>
+
+]]></content>
+        </item>
+        
+        <item>
+            <title>[Self study] ISTQB Foundational Level</title>
+            <link>https://techsavvy.cc/projects/istqb/</link>
+            <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/istqb/</guid>
+            <description>&lt;p&gt;The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;
+  Artifacts
+  &lt;a href=&#34;#artifacts&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+
+ 
+ &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;</description>
+            <content type="html"><![CDATA[<p>The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.</p>
+<hr>
+<h2 id="artifacts">
+  Artifacts
+  <a href="#artifacts" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+
+ 
+ <object
+     data="https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;em=2" width="100%" height="650px"type="application/pdf"
+ >
+     <p>Unable to display PDF file. <a href="https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;em=2">Download</a> instead.</p>
+ </object>
+
+]]></content>
+        </item>
+        
+    </channel>
 </rss>

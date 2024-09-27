@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hi, it&#39;s me, Lu</title>
+    <title>Tags on Hi, it&#39;s me, Lua</title>
+    
+    
+    
     <link>https://techsavvy.cc/tags/</link>
-    <description>Recent content in Tags on Hi, it&#39;s me, Lu</description>
+    <description>Recent content in Tags on Hi, it&#39;s me, Lua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
@@ -12,84 +15,183 @@
     
     
     <item>
-      <title>courses</title>
+      <title>Courses</title>
       <link>https://techsavvy.cc/tags/courses/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/courses/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>power_bi</title>
+      <title>Power_bi</title>
       <link>https://techsavvy.cc/tags/power_bi/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/power_bi/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>project_management</title>
+      <title>Project_management</title>
       <link>https://techsavvy.cc/tags/project_management/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/project_management/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>dev</title>
+      <title>Dev</title>
       <link>https://techsavvy.cc/tags/dev/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/dev/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>java</title>
+      <title>Java</title>
       <link>https://techsavvy.cc/tags/java/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/java/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>pm</title>
+      <title>Pm</title>
       <link>https://techsavvy.cc/tags/pm/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/pm/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>scrum</title>
+      <title>Scrum</title>
       <link>https://techsavvy.cc/tags/scrum/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/scrum/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>support</title>
+      <title>Support</title>
       <link>https://techsavvy.cc/tags/support/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/support/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
     <item>
-      <title>test</title>
+      <title>Test</title>
       <link>https://techsavvy.cc/tags/test/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/tags/test/</guid>
-      <description></description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          
+          
+        
+        </description>
     </item>
     
   </channel>

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>power_bi on Hi, it&#39;s me, Lu</title>
+    <title>Power_bi on Hi, it&#39;s me, Lua</title>
+    
+    
+    
     <link>https://techsavvy.cc/tags/power_bi/</link>
-    <description>Recent content in power_bi on Hi, it&#39;s me, Lu</description>
+    <description>Recent content in Power_bi on Hi, it&#39;s me, Lua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
@@ -17,9 +20,32 @@
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/ibm_bi/</guid>
-      <description>IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.
-The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:
- Microsoft Power BI - Power BI Desktop Course(24h) People Analytics with Power BI (5h) Supply chain (2.5h) Final Project (20h)  Apart from being a completely new subject for me, I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;p&gt;IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.&lt;/p&gt;
+&lt;p&gt;The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/curso-microsoft-power-bi&#34;&gt;Microsoft Power BI - Power BI Desktop Course(24h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/hr-analytics-con-power-bi-desde-0&#34;&gt;People Analytics with Power BI (5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence&#34;&gt;Supply chain (2.5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Final Project (20h)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
   </channel>

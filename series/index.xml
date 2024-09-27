@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Hi, it&#39;s me, Lu</title>
+    <title>Series on Hi, it&#39;s me, Lua</title>
+    
+    
+    
     <link>https://techsavvy.cc/series/</link>
-    <description>Recent content in Series on Hi, it&#39;s me, Lu</description>
+    <description>Recent content in Series on Hi, it&#39;s me, Lua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     

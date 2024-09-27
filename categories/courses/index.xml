@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>courses on Hi, it&#39;s me, Lu</title>
+    <title>Courses on Hi, it&#39;s me, Lua</title>
+    
+    
+    
     <link>https://techsavvy.cc/categories/courses/</link>
-    <description>Recent content in courses on Hi, it&#39;s me, Lu</description>
+    <description>Recent content in Courses on Hi, it&#39;s me, Lua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
@@ -17,9 +20,32 @@
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/ibm_bi/</guid>
-      <description>IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.
-The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:
- Microsoft Power BI - Power BI Desktop Course(24h) People Analytics with Power BI (5h) Supply chain (2.5h) Final Project (20h)  Apart from being a completely new subject for me, I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;p&gt;IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.&lt;/p&gt;
+&lt;p&gt;The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/curso-microsoft-power-bi&#34;&gt;Microsoft Power BI - Power BI Desktop Course(24h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/hr-analytics-con-power-bi-desde-0&#34;&gt;People Analytics with Power BI (5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence&#34;&gt;Supply chain (2.5h)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Final Project (20h)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -28,9 +54,42 @@ The 8-weeks program consists of a series of courses covering various parts of re
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/java_epam_trainee/</guid>
-      <description>Overview  Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:
- Basics of Computer Science Version Control with Git Java Core + Collections and Streams Design  Databases Web Programming Basics Testing Spring Framework Final Project   Final Project Fot the final project I chose Payment varian. https://github.com/lublyanka/epam_final_task
-In this project, I have successfully implemented a simplified account-payment system.</description>
+      <description>
+        
+          &lt;img src=&#34;https://techsavvy.cc/projects/java_epam_trainee/learn_logo.png&#34;/&gt;
+          
+        
+        
+        
+          &lt;p&gt;&lt;img alt=&#34;Epam_certificate&#34; src=&#34;https://1drv.ms/i/s!AgeHJIJEdd5Ohs9oHV03TkZd2AoiXA?embed=1&amp;height=1024&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;overview&#34;&gt;
+  Overview
+  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Basics of Computer Science&lt;/li&gt;
+&lt;li&gt;Version Control with Git&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/java/&#34;&gt;Java Core + Collections and Streams + Web Programming Basics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/design/&#34;&gt;Design &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/db/&#34;&gt;Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/testing/&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/spring/&#34;&gt;Spring Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;Final Project&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;final-project&#34;&gt;
+  Final Project
+  &lt;a href=&#34;#final-project&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Fot the final project I chose Payment varian.
+&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;https://github.com/lublyanka/epam_final_task&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this project, I have successfully implemented a simplified account-payment system.
+During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.
+Throughout the project, I have learned about payment processing and developed and strengthened skills in Java and JavaScript.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -39,9 +98,19 @@ In this project, I have successfully implemented a simplified account-payment sy
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/scrum_pm/</guid>
-      <description>Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.
-High Energy and Enthusiasm: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.
-Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability.</description>
+      <description>
+        
+          &lt;img src=&#34;https://techsavvy.cc/projects/scrum_pm/projects/scrum_pm/mindset.jpg&#34;/&gt;
+          
+        
+        
+        
+          &lt;p&gt;Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;High Energy and Enthusiasm&lt;/strong&gt;: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Intelligent and Adaptive&lt;/strong&gt;: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability. Similarly, Scrum Management encourages teams to continuously learn, adapt, and overcome challenges, making it a flexible and intelligent project management approach.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -50,9 +119,21 @@ Intelligent and Adaptive: Cockatoos are highly intelligent birds known for their
       <pubDate>Sun, 05 Feb 2023 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/coursera_pm/</guid>
-      <description>Google Professional Certificate Project Management is a certification program offered by Google in collaboration with Coursera.
-The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.
-It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101087&amp;amp;authkey=!AKG3N1-cf5sTZfU&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/gestion-de-proyectos-de-google&#34;&gt;Google Professional Certificate Project Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of six courses covering various topics such as project initiation, planning, execution, monitoring and controlling, and closing.&lt;/p&gt;
+&lt;p&gt;It takes on average 6 months to complete with a workload of 15 hours per week and is designed for individuals with varying levels of project management experience, including those who are experienced professionals.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -61,9 +142,21 @@ It takes on average 6 months to complete with a workload of 15 hours per week an
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/coursera_it_support/</guid>
-      <description>Google Professional Certificate IT Support Management is a certification program offered by Google in collaboration with Coursera.
-The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .
-It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.</description>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2131826&amp;amp;authkey=!APuKdIs151NBru8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google&#34;&gt;Google Professional Certificate IT Support Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .&lt;/p&gt;
+&lt;p&gt;It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.&lt;/p&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -72,9 +165,34 @@ It takes on average 5 months to complete with a workload of 10 hours per week an
       <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/ultrarev_pm/</guid>
-      <description>RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.
-The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.
- Artifacts Communication Plan Ultrarev Butter Onboarding  </description>
+      <description>
+        
+          &lt;img src=&#34;https://techsavvy.cc/projects/ultrarev_pm//projects/ultrarev_pm/ultrarevpmcover.webp&#34;/&gt;
+          
+        
+        
+        
+          &lt;p&gt;RadicalX is a Virtual Internship Platform that helps aspiring professionals to discover their dream career by gaining experience from industry job simulations that replicate work at top tech companies.&lt;/p&gt;
+&lt;p&gt;The program helped me to strengthen my skills, mindset, and network to be a high-impact team member at innovative companies.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;
+  Artifacts
+  &lt;a href=&#34;#artifacts&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h4 id=&#34;communication-plan-ultrarev-butter-onboarding&#34;&gt;
+  Communication Plan Ultrarev Butter Onboarding
+  &lt;a href=&#34;#communication-plan-ultrarev-butter-onboarding&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+
+ 
+ &lt;object
+     data=&#34;https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;amp;authkey=%21AFvYtODXNXPPqwU&amp;amp;em=2&amp;amp;wdAllowInteractivity=False&amp;amp;ActiveCell=%27Sheet1%27!A1&amp;amp;wdHideGridlines=True&amp;amp;wdHideHeaders=True&amp;amp;wdDownloadButton=True&amp;amp;wdInConfigurator=True&amp;amp;wdInConfigurator=True&#34; width=&#34;100%&#34; height=&#34;775px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://onedrive.live.com/embed?resid=4EDE754482248707%2125431&amp;amp;authkey=%21AFvYtODXNXPPqwU&amp;amp;em=2&amp;amp;wdAllowInteractivity=False&amp;amp;ActiveCell=%27Sheet1%27!A1&amp;amp;wdHideGridlines=True&amp;amp;wdHideHeaders=True&amp;amp;wdDownloadButton=True&amp;amp;wdInConfigurator=True&amp;amp;wdInConfigurator=True&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+          
+        
+        </description>
     </item>
     
     <item>
@@ -83,8 +201,29 @@ The program helped me to strengthen my skills, mindset, and network to be a high
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://techsavvy.cc/projects/istqb/</guid>
-      <description>The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.
- Artifacts  </description>
+      <description>
+        
+          &lt;img src=&#34;https://techsavvy.cc/projects/istqb/ISTQB.png&#34;/&gt;
+          
+        
+        
+        
+          &lt;p&gt;The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;artifacts&#34;&gt;
+  Artifacts
+  &lt;a href=&#34;#artifacts&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+
+ 
+ &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+          
+        
+        </description>
     </item>
     
   </channel>
