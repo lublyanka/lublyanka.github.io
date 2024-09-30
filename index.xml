@@ -9,10 +9,38 @@
     <description>Recent content on Hi, it&#39;s me, Lua</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Aug 2024 14:47:09 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://techsavvy.cc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>[Self study] Google Data Analytics Professional Program</title>
+      <link>https://techsavvy.cc/projects/coursera_data/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://techsavvy.cc/projects/coursera_data/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/google-data-analytics&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of eight courses covering various topics such as data-driven decisions, data cleaning, data visualizationb and R programming language.&lt;/p&gt;
+&lt;p&gt;It takes on average 6 months to complete with a workload of 10 hours per week and is designed for individuals with varying levels of data analytics experience.&lt;/p&gt;
+          
+        
+        </description>
+    </item>
     
     <item>
       <title>Scrum PSM I</title>
@@ -39,11 +67,11 @@
     </item>
     
     <item>
-      <title>PowerBI</title>
-      <link>https://techsavvy.cc/certificates/powerbi/</link>
-      <pubDate>Fri, 21 Jun 2024 19:47:09 +0200</pubDate>
+      <title>Data analytics</title>
+      <link>https://techsavvy.cc/certificates/data/</link>
+      <pubDate>Sat, 10 Aug 2024 14:47:09 +0200</pubDate>
       
-      <guid>https://techsavvy.cc/certificates/powerbi/</guid>
+      <guid>https://techsavvy.cc/certificates/data/</guid>
       <description>
         
           
@@ -52,7 +80,23 @@
         
         
         
-          &lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107546&amp;amp;authkey=%21AF3LkB2JX-0rJ_k&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+          &lt;h4 id=&#34;data-analitics&#34;&gt;
+  Data Analitics
+  &lt;a href=&#34;#data-analitics&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+
+ 
+ &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;h4 id=&#34;power-bi&#34;&gt;
+  Power BI
+  &lt;a href=&#34;#power-bi&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107546&amp;amp;authkey=%21AF3LkB2JX-0rJ_k&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106547&amp;amp;authkey=!AFhTP8pZmf4ahyg&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106714&amp;amp;authkey=!AIsbPGJY3vBxOz0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106546&amp;amp;authkey=!AIYUuMRjlGnhCRI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
@@ -206,7 +250,15 @@
         
         
         
-          &lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145865&amp;amp;authkey=!AFXXIdnlzCHtjVc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
+          &lt;p&gt;
+ 
+ &lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145865&amp;amp;authkey=!AFXXIdnlzCHtjVc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145853&amp;amp;authkey=!AEUhmMTw8cBAytc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
           
         
@@ -263,31 +315,6 @@
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145862&amp;amp;authkey=!ADqVcFx4-Ms-kFk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148826&amp;amp;authkey=!ADT_44WiZaoK9A8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
 &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100979&amp;amp;authkey=!AMufQXAyXJhEgX4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
-    </item>
-    
-    <item>
-      <title>Spring courses</title>
-      <link>https://techsavvy.cc/certificates/spring/</link>
-      <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
-      
-      <guid>https://techsavvy.cc/certificates/spring/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100664&amp;amp;authkey=!AOOBXs8T3PVQQZI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149874&amp;amp;authkey=!AHPKdwje65IyX3c&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2156005&amp;amp;authkey=!AO52qlMe7HXNwLM&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149890&amp;amp;authkey=!ACpUOZtBXOnCdgk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2155997&amp;amp;authkey=!ABjwKZMzERc-rFs&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2156218&amp;amp;authkey=!AOvoHsF3YJiTw1k&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
           
         
         </description>

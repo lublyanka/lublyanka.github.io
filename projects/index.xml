@@ -5,8 +5,59 @@
         <description>Recent content in Projects on Hi, it&#39;s me, Lua</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Fri, 21 Jun 2024 00:00:00 +0000</lastBuildDate>
+        <lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
         <atom:link href="https://techsavvy.cc/projects/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>[Self study] Google Data Analytics Professional Program</title>
+            <link>https://techsavvy.cc/projects/coursera_data/</link>
+            <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+            
+            <guid>https://techsavvy.cc/projects/coursera_data/</guid>
+            <description>&lt;object
+     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
+ &gt;
+     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+ &lt;/object&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/google-data-analytics&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
+&lt;p&gt;The program consists of a series of eight courses covering various topics such as data-driven decisions, data cleaning, data visualizationb and R programming language.&lt;/p&gt;
+&lt;p&gt;It takes on average 6 months to complete with a workload of 10 hours per week and is designed for individuals with varying levels of data analytics experience.&lt;/p&gt;</description>
+            <content type="html"><![CDATA[
+ 
+ <object
+     data="https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;em=2" width="100%" height="615px"type="application/pdf"
+ >
+     <p>Unable to display PDF file. <a href="https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;em=2">Download</a> instead.</p>
+ </object>
+
+<p><a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analytics Professional Certificate</a> is a certification program offered by Google in collaboration with Coursera.</p>
+<p>The program consists of a series of eight courses covering various topics such as data-driven decisions, data cleaning, data visualizationb and R programming language.</p>
+<p>It takes on average 6 months to complete with a workload of 10 hours per week and is designed for individuals with varying levels of data analytics experience.</p>
+<p>Upon completion of the program, individuals receive a certificate that showcases their skills and knowledge in data analytics and data visualization, recognized by both employers and peers.</p>
+<hr>
+<h2 id="data-analysis-with-r-programming">
+  Data Analysis with R Programming
+  <a href="#data-analysis-with-r-programming" class="h-anchor" aria-hidden="true">#</a>
+</h2>
+<p>The most exciting part of the program for me was a course on the R programming language.
+I had wanted to try it for a long time but had my doubts. This course gave me the opportunity to gain firsthand experience with R.
+I learned several key aspects of R, including:</p>
+<ul>
+<li>The R language itself and its programming environment.</li>
+<li>Fundamental concepts such as functions, variables, data types, pipes, and vectors.</li>
+<li>Various methods for creating visualizations in R.</li>
+<li>Basic formatting in R Markdown to structure and highlight content.</li>
+</ul>
+<hr>
+
+
+
+
+
+<img src="/projects/coursera_data/GrowwithGoogle_hu5176715009706815096.png" width="400" height="400" alt="Google Data Analytics Program">
+]]></content>
+        </item>
         
         <item>
             <title>[Self study] IBM SkillsBuild PowerBI program </title>
