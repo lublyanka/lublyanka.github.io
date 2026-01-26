@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://techsavvy.cc/certificates/</loc>
+    <lastmod>2025-08-17T14:47:09+02:00</lastmod>
+  </url><url>
+    <loc>https://techsavvy.cc/</loc>
+    <lastmod>2025-08-17T14:47:09+02:00</lastmod>
+  </url><url>
+    <loc>https://techsavvy.cc/certificates/scrum/</loc>
+    <lastmod>2025-08-17T14:47:09+02:00</lastmod>
+  </url><url>
     <loc>https://techsavvy.cc/projects/coursera_data/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -11,16 +20,13 @@
     <loc>https://techsavvy.cc/categories/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://techsavvy.cc/tags/courses/</loc>
-    <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://techsavvy.cc/categories/courses/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://techsavvy.cc/tags/data/</loc>
+    <loc>https://techsavvy.cc/tags/courses/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://techsavvy.cc/</loc>
+    <loc>https://techsavvy.cc/tags/data/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://techsavvy.cc/projects/</loc>
@@ -31,12 +37,6 @@
   </url><url>
     <loc>https://techsavvy.cc/tags/</loc>
     <lastmod>2024-09-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://techsavvy.cc/certificates/</loc>
-    <lastmod>2024-08-17T14:47:09+02:00</lastmod>
-  </url><url>
-    <loc>https://techsavvy.cc/certificates/scrum/</loc>
-    <lastmod>2024-08-17T14:47:09+02:00</lastmod>
   </url><url>
     <loc>https://techsavvy.cc/certificates/data/</loc>
     <lastmod>2024-08-10T14:47:09+02:00</lastmod>
