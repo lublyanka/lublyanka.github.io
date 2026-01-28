@@ -2,38 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Scrum on Hi, it&#39;s me, Lua</title>
-    
-    
-    
     <link>https://techsavvy.cc/tags/scrum/</link>
     <description>Recent content in Scrum on Hi, it&#39;s me, Lua</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Feb 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://techsavvy.cc/tags/scrum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Self study] Scrum management</title>
       <link>https://techsavvy.cc/projects/scrum_pm/</link>
       <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/scrum_pm/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://techsavvy.cc/projects/scrum_pm/projects/scrum_pm/mindset.jpg&#34;/&gt;
-          
-        
-        
-        
-          &lt;p&gt;Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;High Energy and Enthusiasm&lt;/strong&gt;: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Intelligent and Adaptive&lt;/strong&gt;: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability. Similarly, Scrum Management encourages teams to continuously learn, adapt, and overcome challenges, making it a flexible and intelligent project management approach.&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;Scrum Management can be compared to a cockatoo due to its vibrant and dynamic nature, mirroring the characteristics of this colorful bird.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;High Energy and Enthusiasm&lt;/strong&gt;: Just like a cockatoo&amp;rsquo;s energetic and enthusiastic demeanor, Scrum Management is known for its high energy and enthusiasm. Scrum teams are motivated and committed to delivering value in each sprint, fostering a positive and vibrant work atmosphere.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Intelligent and Adaptive&lt;/strong&gt;: Cockatoos are highly intelligent birds known for their problem-solving abilities and adaptability. Similarly, Scrum Management encourages teams to continuously learn, adapt, and overcome challenges, making it a flexible and intelligent project management approach.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

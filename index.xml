@@ -2,332 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hi, it&#39;s me, Lua</title>
-    
-    
-    
     <link>https://techsavvy.cc/</link>
     <description>Recent content on Hi, it&#39;s me, Lua</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Aug 2025 14:47:09 +0200</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://techsavvy.cc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Scrum PSM</title>
       <link>https://techsavvy.cc/certificates/scrum/</link>
       <pubDate>Sun, 17 Aug 2025 14:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/scrum/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;h4 id=&#34;&#34;&gt;
-  
-  &lt;a href=&#34;#&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;h3 id=&#34;scrum-psm-ii-2025&#34;&gt;
-  Scrum PSM II 2025
-  &lt;a href=&#34;#scrum-psm-ii-2025&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;iframe width=&#34;100%&#34; height=&#34;550&#34; name=&#34;iframe&#34; src=&#34;https://1drv.ms/b/c/4ede754482248707/IQQUfoOiobilSZdjeCAe0XpTAa8TXBxeUIGEP_o0TU39xEE&#34;&gt;&lt;/iframe&gt;
-&lt;h3 id=&#34;scrum-psm-i-2024&#34;&gt;
-  Scrum PSM I 2024
-  &lt;a href=&#34;#scrum-psm-i-2024&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107379&amp;amp;authkey=!AB17aZanfmOB4kQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-          
-        
-        </description>
+      <description>&lt;h4&gt;&lt;/h4&gt;&#xA;&lt;h3 id=&#34;scrum-psm-ii-2025&#34;&gt;Scrum PSM II 2025&lt;/h3&gt;&#xA;&lt;iframe width=&#34;100%&#34; height=&#34;550&#34; name=&#34;iframe&#34; src=&#34;https://1drv.ms/b/c/4ede754482248707/IQQUfoOiobilSZdjeCAe0XpTAa8TXBxeUIGEP_o0TU39xEE&#34;&gt;&lt;/iframe&gt;&#xA;&lt;h3 id=&#34;scrum-psm-i-2024&#34;&gt;Scrum PSM I 2024&lt;/h3&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107379&amp;amp;authkey=!AB17aZanfmOB4kQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;</description>
     </item>
-    
     <item>
       <title>[Self study] Google Data Analytics Professional Program</title>
       <link>https://techsavvy.cc/projects/coursera_data/</link>
       <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/coursera_data/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/google-data-analytics&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
-&lt;p&gt;The program consists of a series of eight courses covering various topics such as data-driven decisions, data cleaning, data visualizationb and R programming language.&lt;/p&gt;
-&lt;p&gt;It takes on average 6 months to complete with a workload of 10 hours per week and is designed for individuals with varying levels of data analytics experience.&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;&#xA;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/professional-certificates/google-data-analytics&#34;&gt;Google Data Analytics Professional Certificate&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;&#xA;&lt;p&gt;The program consists of a series of eight courses covering various topics such as data-driven decisions, data cleaning, data visualizationb and R programming language.&lt;/p&gt;&#xA;&lt;p&gt;It takes on average 6 months to complete with a workload of 10 hours per week and is designed for individuals with varying levels of data analytics experience.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Data analytics</title>
       <link>https://techsavvy.cc/certificates/data/</link>
       <pubDate>Sat, 10 Aug 2024 14:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/data/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;h4 id=&#34;data-analitics&#34;&gt;
-  Data Analitics
-  &lt;a href=&#34;#data-analitics&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-
- 
- &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-
-&lt;h4 id=&#34;power-bi&#34;&gt;
-  Power BI
-  &lt;a href=&#34;#power-bi&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h4&gt;
-&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107546&amp;amp;authkey=%21AF3LkB2JX-0rJ_k&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106547&amp;amp;authkey=!AFhTP8pZmf4ahyg&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106714&amp;amp;authkey=!AIsbPGJY3vBxOz0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106546&amp;amp;authkey=!AIYUuMRjlGnhCRI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;h4 id=&#34;data-analitics&#34;&gt;Data Analitics&lt;/h4&gt;&#xA;&#xA; &#xA; &lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs99w5DyvjdVhu2Jdg?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;&#xA;&#xA;&lt;h4 id=&#34;power-bi&#34;&gt;Power BI&lt;/h4&gt;&#xA;&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21107546&amp;amp;authkey=%21AF3LkB2JX-0rJ_k&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106547&amp;amp;authkey=!AFhTP8pZmf4ahyg&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106714&amp;amp;authkey=!AIsbPGJY3vBxOz0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21106546&amp;amp;authkey=!AIYUuMRjlGnhCRI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>[Self study] IBM SkillsBuild PowerBI program </title>
       <link>https://techsavvy.cc/projects/ibm_bi/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/ibm_bi/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-
-&lt;p&gt;IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.&lt;/p&gt;
-&lt;p&gt;The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/curso-microsoft-power-bi&#34;&gt;Microsoft Power BI - Power BI Desktop Course(24h)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/hr-analytics-con-power-bi-desde-0&#34;&gt;People Analytics with Power BI (5h)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence&#34;&gt;Supply chain (2.5h)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Final Project (20h)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;615px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OhsgaXcuQHYlf7Ssn-Q?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;&#xA;&#xA;&lt;p&gt;IBM SkillsBuild PowerBI program is a certification program offered by IBM in collaboration with Udemy and SkillsBuild.&lt;/p&gt;&#xA;&lt;p&gt;The 8-weeks program consists of a series of courses covering various parts of reports in PowerBI:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/curso-microsoft-power-bi&#34;&gt;Microsoft Power BI - Power BI Desktop Course(24h)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/hr-analytics-con-power-bi-desde-0&#34;&gt;People Analytics with Power BI (5h)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://udemy.com/course/power-bi-gestion-de-supply-chain-con-business-intelligence&#34;&gt;Supply chain (2.5h)&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Final Project (20h)&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Apart from being a completely new subject for me,  I also faced the additional challenge of taking the course entirely in Spanish as part of the Datahack scholarship program.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Standout report</title>
       <link>https://techsavvy.cc/standout/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/standout/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs9pbTt_fE1Nc5vS6g?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;1075px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs9pbTt_fE1Nc5vS6g?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-          
-        
-        </description>
+      <description>&lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs9pbTt_fE1Nc5vS6g?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;1075px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5Ohs9pbTt_fE1Nc5vS6g?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;</description>
     </item>
-    
     <item>
       <title>Suntan telegram bot</title>
       <link>https://techsavvy.cc/projects/suntanbot/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/suntanbot/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://techsavvy.cc/projects/suntanbot/sand2.jpg&#34;/&gt;
-          
-        
-        
-        
-          &lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;In the past, I came across an article discussing the &amp;ldquo;Goltis&lt;sup&gt;1&lt;/sup&gt; Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.&lt;/p&gt;
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;sub&gt;also known as Vladimir Vuksta&lt;/sub&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In the past, I came across an article discussing the &amp;ldquo;Goltis&lt;sup&gt;1&lt;/sup&gt; Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.&lt;/p&gt;&#xA;&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;sub&gt;also known as Vladimir Vuksta&lt;/sub&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Databases</title>
       <link>https://techsavvy.cc/certificates/db/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/db/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145863&amp;amp;authkey=!AOdrFm248UH4W_4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145864&amp;amp;authkey=!AFGhiOwhoVIFDnk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145855&amp;amp;authkey=!AC-BfJ9zh4os_UI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149264&amp;amp;authkey=!ACJiszihPTWtGZc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148825&amp;amp;authkey=!AHXF0zi3b1lLMy8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145863&amp;amp;authkey=!AOdrFm248UH4W_4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145864&amp;amp;authkey=!AFGhiOwhoVIFDnk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145855&amp;amp;authkey=!AC-BfJ9zh4os_UI&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149264&amp;amp;authkey=!ACJiszihPTWtGZc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148825&amp;amp;authkey=!AHXF0zi3b1lLMy8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Design code</title>
       <link>https://techsavvy.cc/certificates/design/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/design/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145852&amp;amp;authkey=!AGtIrkOI5-M46yQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149263&amp;amp;authkey=!AFiRQHsrd1bhdqY&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145854&amp;amp;authkey=!ACpAsBSlRTYiMRw&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145860&amp;amp;authkey=!AJfPvGPuX6G_eeQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101043&amp;amp;authkey=!AGtZrIzCAGOi7j0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101151&amp;amp;authkey=!ALIedvfdugm7XRE&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145852&amp;amp;authkey=!AGtIrkOI5-M46yQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149263&amp;amp;authkey=!AFiRQHsrd1bhdqY&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145854&amp;amp;authkey=!ACpAsBSlRTYiMRw&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145860&amp;amp;authkey=!AJfPvGPuX6G_eeQ&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101043&amp;amp;authkey=!AGtZrIzCAGOi7j0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101151&amp;amp;authkey=!ALIedvfdugm7XRE&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Development Testing</title>
       <link>https://techsavvy.cc/certificates/testing/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/testing/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;p&gt;
- 
- &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145865&amp;amp;authkey=!AFXXIdnlzCHtjVc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145853&amp;amp;authkey=!AEUhmMTw8cBAytc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;&#xA; &#xA; &lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;&#xA;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145865&amp;amp;authkey=!AFXXIdnlzCHtjVc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145853&amp;amp;authkey=!AEUhmMTw8cBAytc&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java core &#43; web</title>
       <link>https://techsavvy.cc/certificates/java/</link>
       <pubDate>Fri, 02 Jun 2023 19:47:09 +0200</pubDate>
-      
       <guid>https://techsavvy.cc/certificates/java/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;h3 id=&#34;&#34;&gt;
-  
-  &lt;a href=&#34;#&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101152&amp;amp;authkey=!AE_79h-pblYSmug&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;h3 id=&#34;streams&#34;&gt;
-  Streams
-  &lt;a href=&#34;#streams&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149891&amp;amp;authkey=!AD-jZ44qoEMthb0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145857&amp;amp;authkey=!AAzDPw2gRYftr5w&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-&lt;h3 id=&#34;servlets&#34;&gt;
-  Servlets
-  &lt;a href=&#34;#servlets&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149262&amp;amp;authkey=!ACBIw7N0wbyAWWs&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;h3 id=&#34;api&#34;&gt;
-  API
-  &lt;a href=&#34;#api&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145859&amp;amp;authkey=!AGEtbHAG3X4WM68&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148817&amp;amp;authkey=!AHwtTnt4KHuQWaA&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-&lt;h3 id=&#34;concurrency&#34;&gt;
-  Concurrency
-  &lt;a href=&#34;#concurrency&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100665&amp;amp;authkey=!APrYTtiB0HdLlWo&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;h3 id=&#34;web&#34;&gt;
-  Web
-  &lt;a href=&#34;#web&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h3&gt;
-&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148816&amp;amp;authkey=!AOXcJgBZVdhwnFk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2146149&amp;amp;authkey=!AInBBEcw-gFEOe4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145862&amp;amp;authkey=!ADqVcFx4-Ms-kFk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148826&amp;amp;authkey=!ADT_44WiZaoK9A8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100979&amp;amp;authkey=!AMufQXAyXJhEgX4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;h3&gt;&lt;/h3&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21101152&amp;amp;authkey=!AE_79h-pblYSmug&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;h3 id=&#34;streams&#34;&gt;Streams&lt;/h3&gt;&#xA;&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149891&amp;amp;authkey=!AD-jZ44qoEMthb0&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145857&amp;amp;authkey=!AAzDPw2gRYftr5w&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;servlets&#34;&gt;Servlets&lt;/h3&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2149262&amp;amp;authkey=!ACBIw7N0wbyAWWs&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;h3 id=&#34;api&#34;&gt;API&lt;/h3&gt;&#xA;&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145859&amp;amp;authkey=!AGEtbHAG3X4WM68&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148817&amp;amp;authkey=!AHwtTnt4KHuQWaA&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;concurrency&#34;&gt;Concurrency&lt;/h3&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100665&amp;amp;authkey=!APrYTtiB0HdLlWo&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;h3 id=&#34;web&#34;&gt;Web&lt;/h3&gt;&#xA;&lt;p&gt;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148816&amp;amp;authkey=!AOXcJgBZVdhwnFk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2146149&amp;amp;authkey=!AInBBEcw-gFEOe4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2145862&amp;amp;authkey=!ADqVcFx4-Ms-kFk&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2148826&amp;amp;authkey=!ADT_44WiZaoK9A8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%21100979&amp;amp;authkey=!AMufQXAyXJhEgX4&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

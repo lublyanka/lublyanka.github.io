@@ -2,48 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on Hi, it&#39;s me, Lua</title>
-    
-    
-    
     <link>https://techsavvy.cc/tags/test/</link>
     <description>Recent content in Test on Hi, it&#39;s me, Lua</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Nov 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/tags/test/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://techsavvy.cc/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Self study] ISTQB Foundational Level</title>
       <link>https://techsavvy.cc/projects/istqb/</link>
       <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/istqb/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://techsavvy.cc/projects/istqb/ISTQB.png&#34;/&gt;
-          
-        
-        
-        
-          &lt;p&gt;The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;artifacts&#34;&gt;
-  Artifacts
-  &lt;a href=&#34;#artifacts&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-
- 
- &lt;object
-     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;
- &gt;
-     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
- &lt;/object&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;The ISTQB Certificate is a globally recognized professional certification program designed to validate software testing expertise and proficiency. Developed by the International Software Testing Qualifications Board, this certification provides individuals with a comprehensive understanding of software testing principles, techniques, and best practices.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;artifacts&#34;&gt;Artifacts&lt;/h2&gt;&#xA;&#xA; &#xA; &lt;object&#xA;     data=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34; width=&#34;100%&#34; height=&#34;650px&#34;type=&#34;application/pdf&#34;&#xA; &gt;&#xA;     &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://1drv.ms/b/s!AgeHJIJEdd5OgcRBC3Unyz65j32cig?embed=1&amp;amp;em=2&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;&#xA; &lt;/object&gt;</description>
     </item>
-    
   </channel>
 </rss>

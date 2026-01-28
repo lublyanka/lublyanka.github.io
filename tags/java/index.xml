@@ -2,85 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Java on Hi, it&#39;s me, Lua</title>
-    
-    
-    
     <link>https://techsavvy.cc/tags/java/</link>
     <description>Recent content in Java on Hi, it&#39;s me, Lua</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 31 Jul 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://techsavvy.cc/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Suntan telegram bot</title>
       <link>https://techsavvy.cc/projects/suntanbot/</link>
       <pubDate>Mon, 31 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/suntanbot/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://techsavvy.cc/projects/suntanbot/sand2.jpg&#34;/&gt;
-          
-        
-        
-        
-          &lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;In the past, I came across an article discussing the &amp;ldquo;Goltis&lt;sup&gt;1&lt;/sup&gt; Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.&lt;/p&gt;
-&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;sub&gt;also known as Vladimir Vuksta&lt;/sub&gt;&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;In the past, I came across an article discussing the &amp;ldquo;Goltis&lt;sup&gt;1&lt;/sup&gt; Scheme&amp;rdquo;, a method to achieve a quicker suntan without experiencing sunburns. Over time, I often thought about how beneficial it would be to have more than just an image of this scheme. An interactive application or similar tool would enhance the experience and make it easier to understand and apply the technique effectively.&lt;/p&gt;&#xA;&lt;p&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;sub&gt;also known as Vladimir Vuksta&lt;/sub&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Java Epam Trainee</title>
       <link>https://techsavvy.cc/projects/java_epam_trainee/</link>
       <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/java_epam_trainee/</guid>
-      <description>
-        
-          &lt;img src=&#34;https://techsavvy.cc/projects/java_epam_trainee/learn_logo.png&#34;/&gt;
-          
-        
-        
-        
-          &lt;p&gt;&lt;/p&gt;
-&lt;h2 id=&#34;overview&#34;&gt;
-  Overview
-  &lt;a href=&#34;#overview&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Basics of Computer Science&lt;/li&gt;
-&lt;li&gt;Version Control with Git&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/java/&#34;&gt;Java Core + Collections and Streams + Web Programming Basics&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/design/&#34;&gt;Design &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/db/&#34;&gt;Databases&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/testing/&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/spring/&#34;&gt;Spring Framework&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;Final Project&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;final-project&#34;&gt;
-  Final Project
-  &lt;a href=&#34;#final-project&#34; class=&#34;h-anchor&#34; aria-hidden=&#34;true&#34;&gt;#&lt;/a&gt;
-&lt;/h2&gt;
-&lt;p&gt;Fot the final project I chose Payment varian.
-&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;https://github.com/lublyanka/epam_final_task&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;In this project, I have successfully implemented a simplified account-payment system.
-During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.
-Throughout the project, I have learned about payment processing and developed and strengthened skills in Java and JavaScript.&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://1drv.ms/i/s!AgeHJIJEdd5Ohs9oHV03TkZd2AoiXA?embed=1&amp;amp;height=1024&#34; alt=&#34;Epam_certificate&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Epam Java University External Course prepares individuals for a new career in IT and includes the following modules:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Basics of Computer Science&lt;/li&gt;&#xA;&lt;li&gt;Version Control with Git&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/java/&#34;&gt;Java Core + Collections and Streams + Web Programming Basics&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/design/&#34;&gt;Design &lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/db/&#34;&gt;Databases&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/testing/&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://techsavvy.cc/certificates/spring/&#34;&gt;Spring Framework&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;Final Project&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;final-project&#34;&gt;Final Project&lt;/h2&gt;&#xA;&lt;p&gt;Fot the final project I chose Payment varian.&#xA;&lt;a href=&#34;https://github.com/lublyanka/epam_final_task&#34;&gt;https://github.com/lublyanka/epam_final_task&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;In this project, I have successfully implemented a simplified account-payment system.&#xA;During the development, I have managed to create a user interface for customers and administrator and did it in allocated time-frame.&#xA;Throughout the project, I have learned about payment processing and developed and strengthened skills in Java and JavaScript.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

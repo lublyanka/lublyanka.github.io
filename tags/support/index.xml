@@ -2,40 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Support on Hi, it&#39;s me, Lua</title>
-    
-    
-    
     <link>https://techsavvy.cc/tags/support/</link>
     <description>Recent content in Support on Hi, it&#39;s me, Lua</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Nov 2022 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://techsavvy.cc/tags/support/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <atom:link href="https://techsavvy.cc/tags/support/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>[Self study] Google IT Support Professional Program</title>
       <link>https://techsavvy.cc/projects/coursera_it_support/</link>
       <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://techsavvy.cc/projects/coursera_it_support/</guid>
-      <description>
-        
-          
-          
-          
-        
-        
-        
-          &lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2131826&amp;amp;authkey=!APuKdIs151NBru8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google&#34;&gt;Google Professional Certificate IT Support Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;
-&lt;p&gt;The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .&lt;/p&gt;
-&lt;p&gt;It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.&lt;/p&gt;
-          
-        
-        </description>
+      <description>&lt;iframe src=&#39;https://onedrive.live.com/embed?resid=4EDE754482248707%2131826&amp;amp;authkey=!APuKdIs151NBru8&amp;amp;em=2#zoom=50&#39;  width=&#34;100%&#34; height=&#34;500&#34; border=&#34;0&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; &gt; &lt;/iframe&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/soporte-de-tecnologias-de-informacion-google&#34;&gt;Google Professional Certificate IT Support Management&lt;/a&gt; is a certification program offered by Google in collaboration with Coursera.&lt;/p&gt;&#xA;&lt;p&gt;The program consists of a series of five courses covering various topics such as computer systems, networking, operating systems, system administration, and security. The program is delivered online and .&lt;/p&gt;&#xA;&lt;p&gt;It takes on average 5 months to complete with a workload of 10 hours per week and is designed for individuals who wants to improve their existing knowledge.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
